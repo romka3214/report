@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "CoreRhino45Regular";
+    src: url("../fonts/CoreRhino45Regular.eot");
+    src: url("../fonts/CoreRhino45Regular.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreRhino45Regular.woff") format("woff"), url("../fonts/CoreRhino45Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "CoreSansA35Light"; */
+
+@font-face {
+    font-family: "CoreSansA35Light";
+    src: url("../fonts/CoreSansAR-35Light.eot");
+    src: url("../fonts/CoreSansAR-35Light.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreSansAR-35Light.woff") format("woff"), url("../fonts/CoreSansAR-35Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "CoreSansA25ExtraLight"; */
+
+@font-face {
+    font-family: "CoreSansA25ExtraLight";
+    src: url("../fonts/CoreSansAR-25ExtraLight.eot");
+    src: url("../fonts/CoreSansAR-25ExtraLight.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreSansAR-25ExtraLight.woff") format("woff"), url("../fonts/CoreSansAR-25ExtraLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "CoreSansA45Regular"; */
+
+@font-face {
+    font-family: "CoreSansA45Regular";
+    src: url("../fonts/CoreSansAR-45Regular.eot");
+    src: url("../fonts/CoreSansAR-45Regular.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreSansAR-45Regular.woff") format("woff"), url("../fonts/CoreSansAR-45Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "CoreSansA45RegularIt"; */
+
+@font-face {
+    font-family: "CoreSansA45RegularIt";
+    src: url("../fonts/CoreSansAR-45RegularIt.eot");
+    src: url("../fonts/CoreSansAR-45RegularIt.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreSansAR-45RegularIt.woff") format("woff"), url("../fonts/CoreSansAR-45RegularIt.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "CoreSansA55Medium"; */
+
+@font-face {
+    font-family: "CoreSansA55Medium";
+    src: url("../fonts/CoreSansAR-55Medium.eot");
+    src: url("../fonts/CoreSansAR-55Medium.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreSansAR-55Medium.woff") format("woff"), url("../fonts/CoreSansAR-55Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "CoreSansA65Bold"; */
+
+@font-face {
+    font-family: "CoreSansA65Bold";
+    src: url("../fonts/CoreSansAR-65Bold.eot");
+    src: url("../fonts/CoreSansAR-65Bold.eot?#iefix")format("embedded-opentype"), url("../fonts/CoreSansAR-65Bold.woff") format("woff"), url("../fonts/CoreSansAR-65Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* font-family: "OpenSansRegular"; */
+
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("../fonts/OpenSansRegular.eot");
+    src: url("../fonts/OpenSansRegular.eot?#iefix")format("embedded-opentype"), url("../fonts/OpenSansRegular.woff") format("woff"), url("../fonts/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
